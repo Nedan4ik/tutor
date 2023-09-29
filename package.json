@@ -1,0 +1,23 @@
+{
+  "name": "angelfarm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@huggingface/inference": "^2.6.1",
+    "jimp": "^0.22.10",
+    "mineflayer": "^4.14.0",
+    "mineflayer-item-map-downloader": "^1.2.0",
+    "mongoose": "^7.5.2",
+    "node-machine-id": "^1.1.12",
+    "node-telegram-bot-api": "^0.63.0",
+    "readline-sync": "^1.4.10",
+    "uuid": "^9.0.1"
+  }
+}
