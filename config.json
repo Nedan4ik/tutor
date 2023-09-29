@@ -1,8 +1,8 @@
 {
-  "prefix": "UralSila",
-  "password": "anmon228",
+  "prefix": "pon4ikzxcPon",
+  "password": "123456",
   "autoJoin": {
-    "enabled": true,
+    "enabled": false,
     "settings": {
       "server": 2,
       "disableChat": true
